@@ -1,0 +1,6 @@
+{
+  "name": "LokSewa Smart Tracker",
+  "description": "A smart tracker that uses AI to search and list recent Public Service Commission (PSC/Loksewa) vacancies from Nepal.",
+  "permissions": [],
+  "requestFramePermissions": []
+}
